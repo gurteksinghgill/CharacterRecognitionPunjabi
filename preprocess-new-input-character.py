@@ -6,8 +6,8 @@ import matplotlib.image as mpimg
 def rgb2gray(img):
     return np.dot(img[...,:3], [0.2989, 0.5870, 0.1140])
 
-char = mpimg.imread('char.png')     
-char_gray = rgb2gray(char)    
+char = mpimg.imread('char.png')
+char_gray = rgb2gray(char)
 
 # Finds the maximum difference between entries in a 2 x 2 matrix
 def maxdiff(mat):
