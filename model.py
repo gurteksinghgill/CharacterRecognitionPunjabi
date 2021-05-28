@@ -5,6 +5,7 @@ import numpy
 from training-data import X_train, Y_train
 
 # Set up neural network architecture
+# model
 model = Sequential([
   Dense(100, activation = 'tanh', input_shape = (100,)),
   Dense(100, activation = 'tanh'),
