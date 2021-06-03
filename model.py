@@ -45,6 +45,7 @@ test_haha = np.array([
 [0, 1, 1, 1, 1, 1, 0, 0, 0, 0],
 [0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
 ])
-    
+
+# Test the model
 model.predict(test_sasa.flatten().reshape((1, 100)))
 model.predict(test_haha.flatten().reshape((1, 100)))

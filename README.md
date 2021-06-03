@@ -71,4 +71,7 @@ and *haha* is the fifth character. Note also that the *haha* is more confidently
  
 ## Credits and Contact
 
-This code was written by Gurtek Singh Gill. To ask questions or report issues, please send an email to rickygill01@gmail.com.
+* Developers: Gurtek Singh Gill, Montek Singh Gill 
+* Designer: Tavan Sohi
+
+To ask questions or report issues, please send an email to rickygill01@gmail.com.
